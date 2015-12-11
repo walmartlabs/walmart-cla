@@ -1,2 +1,2 @@
 # OneOps
-Website code for http://www.oneops.com
+Global Issues repository for OneOps core
