@@ -1,2 +1,3 @@
-# OneOps
-Global Issues repository for OneOps core
+# OneOps Community CLA Repository
+
+OneOps repository to keep track of CLAs from contributors.
