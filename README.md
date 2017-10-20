@@ -1,3 +1,3 @@
-# OneOps Community CLA Repository
+# Walmart CLA Repository
 
-OneOps repository to keep track of CLAs from contributors.
+A repository to keep track of CLAs from contributors.
