@@ -177,10 +177,6 @@ modification, amendment, or waiver is to be asserted. An executed version of
 this WCA that is scanned and delivered via email or fax, will, for all purposes
 be deemed an original.
 
-
-Individual Contributor Signature (for individual contributors ONLY):
-Signature: Date:
-
 Corporate Contributor Signature:
 
 Name of Legal Entity (Company Name):
@@ -198,17 +194,15 @@ Date:
 
 Instructions:
 
-Individual contributor: Fill out (2), (3) and (4) only.
+This Schedule supersedes and replaces previous Schedules, if any. Therefore,
+please list all designated employees for your organization, not just new
+ones. Please also remove employees who are no longer with the organization.
 
-Corporate contributor: Fill out (1),(2),(3) and (4). This Schedule supersedes
-and replaces previous Schedules, if any. Therefore, please list all designated
-employees for your organization, not just new ones. Please also remove employees
-who are no longer with the organization.
+Company Name:
 
-(1) Company Name (corporate contributor ONLY):
+Provide a list of all contributors with the following details
 
-
-| (2) NAME (first, last) | (3) GITHUB USER NAME |  (4) Email |
-| --- | --- | --- |
-|     |     |     |
+- Name(first, last)
+- GitHub Username
+- Email
 
