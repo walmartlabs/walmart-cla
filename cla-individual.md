@@ -1,7 +1,7 @@
 # WAL‐MART STORES, INC. CONTRIBUTOR AGREEMENT
 
-This Wal-Mart Stores, Inc. (“Walmart”) Contributor Agreement (the “WCA” or
-“Agreement”) must be signed by any person or entity that wishes to contribute
+This __Wal-Mart Stores, Inc. (“Walmart”) Contributor Agreement (the “WCA” or
+“Agreement”)__ must be signed by any person or entity that wishes to contribute
 code or other materials to an open source project that is administered by
 Walmart. The WCA is for your protection as a Contributor as well as the
 protection of Walmart and its users.
@@ -12,25 +12,25 @@ conditions constitute a binding legal agreement.
 
 ## 1. Definitions.
 
-“You” (or “Your”) means the copyright or trademark owner or legal entity
+__“You”__ (or “Your”) means the copyright or trademark owner or legal entity
 authorized by the copyright or trademark owner that is making this Agreement
 with Walmart. For legal entities, the entity making a Contribution and all of
 its Affiliates are considered to be a single Contributor.
 
-“Affiliate” means any entity that controls, is controlled by, or is under common
+__“Affiliate”__ means any entity that controls, is controlled by, or is under common
 control with a party, where “control” means (i) the power, direct or indirect,
 to cause the direction or management of such entity, whether by contract or
 otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding
 shares, or (iii) beneficial ownership of such entity.
 
-“Contribution” means any original work of authorship, including any
+__“Contribution”__ means any original work of authorship, including any
 modifications or additions to an existing work, that is intentionally submitted
 by You to Walmart for inclusion in, or documentation of, any of the products
 owned or managed by Walmart (the “Work”). Contribution includes but is not
 limited to any source code, object code, patch, tool, sample, graphic,
 specifications, materials and documentation.
 
-“Copyright” means all rights (including intellectual property rights) throughout
+__“Copyright”__ means all rights (including intellectual property rights) throughout
 the world protecting works of authorship owned or controlled by You or Your
 Affiliates, including copyright, moral and neighboring rights, as appropriate,
 for the full term of their existence including any extensions by You. For the
@@ -42,11 +42,11 @@ Walmart for the purpose of discussing and improving the Work, but excluding
 communication that is conspicuously marked or otherwise designated in writing by
 You as “Not a Contribution.”
 
-“Trademark” means all word marks, logos, and all other source identifiers, and
+__“Trademark”__ means all word marks, logos, and all other source identifiers, and
 the goodwill associated with such source identifiers, created by You for
 purposes of the Contribution to Walmart.
 
-“Walmart” means Wal‐Mart Stores, Inc. and any of its Affiliates.
+__“Walmart”__ means Wal‐Mart Stores, Inc. and any of its Affiliates.
 
 ## 2. Grant of Copyright License.
 
