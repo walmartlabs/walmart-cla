@@ -11,7 +11,7 @@ agreement.
 
 ## 1. Definitions.
 
-__“You”__ (or “Your”) means the copyright or trademark owner or legal entity
+__“You” (or “Your”)__ means the copyright or trademark owner or legal entity
 authorized by the copyright or trademark owner that is making this Agreement
 with Walmart. For legal entities, the entity making a Contribution and all of
 its Affiliates are considered to be a single Contributor.
@@ -183,18 +183,18 @@ Signature: Date:
 
 Corporate Contributor Signature:
 
-Name of Legal Entity (Company Name): ________________________________
+Name of Legal Entity (Company Name):
 
-Signature: ___________________________
+Signature:
 Date:
 Name:
 Title:
 Email:
-Mailing Address: ____________________________________________________
+Mailing Address:
 
 # SCHEDULE A
 
-Date: ________________
+Date:
 
 Instructions:
 
@@ -204,11 +204,9 @@ Corporate contributor: Fill out (1),(2),(3) and (4). This Schedule supersedes
 and replaces previous Schedules, if any. Therefore, please list all designated
 employees for your organization, not just new ones. Please also remove employees
 who are no longer with the organization.
-  
+
 (1) Company Name (corporate contributor ONLY):
- 
-(2) NAME (first, last)
- 
-(3) GITHUB USER NAME
- 
-(4) Email
+
+
+| (2) NAME (first, last) | (3) GITHUB USER NAME |  (4) Email |
+|   |   |  |
