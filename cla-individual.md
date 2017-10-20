@@ -1,4 +1,4 @@
-WAL‐MART STORES, INC. CONTRIBUTOR AGREEMENT
+# WAL‐MART STORES, INC. CONTRIBUTOR AGREEMENT
 
 This Wal-Mart Stores, Inc. (“Walmart”) Contributor Agreement (the “WCA” or
 “Agreement”) must be signed by any person or entity that wishes to contribute
@@ -10,7 +10,7 @@ If you agree to the terms, fill in the information requested below and sign the
 WCA where indicated. Read the WCA carefully before signing. These terms and
 conditions constitute a binding legal agreement.
 
-1. Definitions.
+## 1. Definitions.
 
 “You” (or “Your”) means the copyright or trademark owner or legal entity
 authorized by the copyright or trademark owner that is making this Agreement
@@ -48,7 +48,7 @@ purposes of the Contribution to Walmart.
 
 “Walmart” means Wal‐Mart Stores, Inc. and any of its Affiliates.
 
-2. Grant of Copyright License.
+## 2. Grant of Copyright License.
 
 You hereby grant to Walmart and to recipients of any Work distributed by or on
 behalf of Walmart under all Copyright a perpetual, worldwide, non‐exclusive,
@@ -59,7 +59,7 @@ distribute all or any portion of Your Contribution(s) and such derivative works,
 by any means or methods now known or later developed, and permit others to do
 any or all of the foregoing.
 
-3. Grant of Patent License.
+## 3. Grant of Patent License.
 
 You hereby grant to Walmart and to recipients of any Work distributed by or on
 behalf of Walmart a perpetual, worldwide, non-exclusive, no-charge,
@@ -79,7 +79,7 @@ contributory patent infringement, then any patent licenses granted to that
 entity under this WCA for that Contribution or Work shall terminate as of the
 date such litigation is filed.
 
-4. Assignment of Trademark.
+## 4. Assignment of Trademark.
 
 To the extent a Contribution includes any Trademarks created by You for purposes
 of the Contribution to Walmart, You hereby assign, transfer, and convey to
@@ -88,15 +88,15 @@ the goodwill of the Trademarks, to Walmart for its use and benefit. Upon
 assignment, Walmart shall be solely responsible to register, maintain, renew and
 perform all obligations with respect to the Trademark(s).
 
-5. Moral Rights.
+## 5. Moral Rights.
 
 If moral rights apply to Your Contribution, to the maximum extent permitted by
 law, You waive and agree not to assert such moral rights against Walmart or our
 successors in interest, or any of our licensees, either direct or indirect.
 
-6. Representations.
+## 6. Representations.
 
-a. You represent that you are legally entitled to grant the above license and
+__a.__ You represent that you are legally entitled to grant the above license and
 are of the age of majority to enter into a formal binding contract. If your
 employer(s) has rights to intellectual property that you create that includes
 your Contributions, you represent that you have received permission to make
@@ -104,7 +104,7 @@ Contributions on behalf of that employer, that your employer has waived such
 rights for your Contributions to Walmart, or that your employer has executed a
 separate WCA with Walmart.
 
-b. You represent that each of Your Contributions is Your original creation or
+__b.__ You represent that each of Your Contributions is Your original creation or
 should You wish to submit work that is not Your original creation, You may
 submit it to Walmart separately from any Contribution, identifying the complete
 details of its source and of any license or other restriction (including, but
@@ -112,25 +112,25 @@ not limited to, related patents, trademarks, and license agreements) of which
 you are personally aware, and conspicuously marking the work as “Submitted on
 behalf of a third-party: [named here]”.
 
-c. You represent that Your Contribution submissions include complete details of
+__c.__ You represent that Your Contribution submissions include complete details of
 any third- party license or other restriction (including, but not limited to,
 related patents and trademarks) of which You are personally aware and which are
 associated with any part of Your Contributions.
 
-d. You represent that none of Your Contributions include any third party
+__d.__ You represent that none of Your Contributions include any third party
 copyrights, patents, trade secrets, licenses or other restrictions (“Third Party
 IP”) and that You will declare any dependencies any other open source projects,
 proprietary software or Third Party IP.
 
-e. You represent that none of Your Contributions include any viruses, Trojan
+__e.__ You represent that none of Your Contributions include any viruses, Trojan
 horses, spyware, or other malicious code.
 
-f. You agree to notify us if You become aware of any circumstance which would
+__f.__ You agree to notify us if You become aware of any circumstance which would
 make any of the foregoing representations inaccurate in any respect. Walmart may
 publicly disclose Your participation in the project, including the fact that You
 have signed the WCA.
 
-7. Support of Contributions.
+## 7. Support of Contributions.
 
 You are not expected to provide support for Your Contributions, except to the
 extent You desire to provide support. You may provide support for free, for a
@@ -140,14 +140,14 @@ CONDITIONS OF ANY KIND, either express or implied, including, without
 limitation, any warranties or conditions of TITLE, NON‐INFRINGEMENT,
 MERCHANTABILITY, or FITNESS FORA PARTICULAR PURPOSE.
 
-8. Outbound Licensing.
+## 8. Outbound Licensing.
 
 You understand and agree that Walmart may license the Contribution under any
 license, in its sole discretion, including copyleft, permissive, commercial, or
 proprietary licenses. Notwithstanding the foregoing, You understand that Walmart
 has no obligation to use Your Contribution as part of any project.
 
-9. General Provisions.
+## 9. General Provisions.
 
 You acknowledge and agree that the English language version of this WCA controls
 and prevails over any discrepancies in any translation of this WCA. This WCA and
