@@ -8,26 +8,35 @@ We use [CLA assistant](https://cla-assistant.io/) to automatically verify any
 pull request against a list of known contributors that have already signed the
 CLA.
 
+## Contributors
+
 There are essentially 3 different scenarios for contributors.
 
-## Walmart Employee or Contractor as Contributor
+### Walmart Employee or Contractor as Contributor
 
 If you are a Walmart employee or contractor, you essentially already signed a
 CLA as part of your onboarding. Simply fill in the required details and indicate
 that you are associated to Walmart in the last question.
 
-## Individual Contributor
+### Individual Contributor
 
 If you are contributing as an individual, simply fill in the required details
 and agree to the CLA.
 
-## Corporate Contributor
+### Corporate Contributor
 
 If you are contributing as an employee of another company or organization, you
 need to ensure that a corporate CLA has been signed and submitted to us.
 
 Then simply fill in the required details and indicate the company you are
 associated with and that a corporate CLA is signed in the last question.
+
+## Repository Owner
+
+If you are a repository owner and reviewing pull request you need to ensure that
+the CLA was signed. The CLA assistant adds a check to each PR and verifies that.
+
+You should not merge any changes without a passing CLA check.
 
 ## Setting Up Corporate CLAs
 
@@ -45,12 +54,16 @@ a gist.
 
 ## Contact Us
 
-All open source efforts are managed by
+All open source efforts are managed by the 
 [Open Source Team](https://sde.walmart.com/docs/open-source/index.html) within
 the
 [Software Delivery and Enablement](https://sde.walmart.com/) team at Walmart.
 
 For external contact beyond signing the CLA please file an issue with this
-repository with contact details and we will reach out to you.
+repository with contact details and we will reach out to you. Alternatively you
+can email Manfred Moser at
+[mmoser@walmartlabs.com](mailto:mmoser@walmartlabs.com) for assistance.
 
 _SDE Open Source Team_
+
+
