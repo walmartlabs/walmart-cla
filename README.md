@@ -1,4 +1,4 @@
-# Walmart Contributore License Agreement CLA
+# Walmart Contributor License Agreement CLA
 
 The Walmart CLA repository serves as the information provider
 for anybody interested in contributing to open source software managed by
