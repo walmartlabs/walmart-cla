@@ -1,4 +1,4 @@
-# Walmart CLA
+# Walmart Contributore License Agreement CLA
 
 The Walmart CLA repository serves as the information provider
 for anybody interested in contributing to open source software managed by
@@ -15,7 +15,7 @@ There are essentially 3 different scenarios for contributors.
 ### Walmart Employee or Contractor as Contributor
 
 If you are a Walmart employee or contractor, you essentially already signed a
-CLA as part of your onboarding. Simply fill in the required details and indicate
+CLA as part of your on-boarding. Simply fill in the required details and indicate
 that you are associated to Walmart in the last question.
 
 ### Individual Contributor
