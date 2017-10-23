@@ -19,7 +19,7 @@ There are essentially 3 different scenarios for contributors.
 
 If you are a Walmart employee or contractor, you essentially already signed a
 CLA as part of your on-boarding. Simply fill in the required details and indicate
-that you are associated to Walmart in the last question.
+that you are associated with Walmart in the last question.
 
 ### Individual Contributor
 
