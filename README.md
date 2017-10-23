@@ -8,6 +8,9 @@ We use [CLA assistant](https://cla-assistant.io/) to automatically verify any
 pull request against a list of known contributors that have already signed the
 CLA.
 
+- [Contributors](#contributors)
+- [Contact Us](#contact)
+
 ## Contributors
 
 There are essentially 3 different scenarios for contributors.
@@ -52,6 +55,7 @@ The CLA used with CLA assistant is an identical copy managed by the
 [walmart-cla-admin](https://github.com/walmartlabs-cla-admin) user on GitHub in
 a gist.
 
+<a name="contact"/>
 ## Contact Us
 
 All open source efforts are managed by the 
