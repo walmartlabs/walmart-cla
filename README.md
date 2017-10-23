@@ -55,8 +55,8 @@ The CLA used with CLA assistant is an identical copy managed by the
 [walmart-cla-admin](https://github.com/walmartlabs-cla-admin) user on GitHub in
 a gist.
 
-<a name="contact"/>
-## Contact Us
+
+## Contact Us <a name="contact"/>
 
 All open source efforts are managed by the 
 [Open Source Team](https://sde.walmart.com/docs/open-source/index.html) within
