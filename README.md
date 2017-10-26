@@ -65,8 +65,8 @@ the
 
 For external contact beyond signing the CLA please file an issue with this
 repository with contact details and we will reach out to you. Alternatively you
-can email Manfred Moser at
-[mmoser@walmartlabs.com](mailto:mmoser@walmartlabs.com) for assistance.
+can email us at
+[opensource@walmartlabs.com](mailto:opensource@walmartlabs.com) for assistance.
 
 _SDE Open Source Team_
 
