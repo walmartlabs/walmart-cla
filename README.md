@@ -37,7 +37,7 @@ need to ensure that a corporate CLA has been signed and submitted to us.
 Then simply fill in the required details and indicate the company you are
 associated with and that a corporate CLA is signed in the last question.
 
-## Repository Owner
+## Repository Owners
 
 If you are a repository owner and reviewing pull request you need to ensure that
 the CLA was signed. The CLA assistant adds a check to each PR and verifies that.
