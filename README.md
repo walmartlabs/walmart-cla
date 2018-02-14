@@ -9,6 +9,9 @@ pull request against a list of known contributors that have already signed the
 CLA.
 
 - [Contributors](#contributors)
+- [Repository Owners](#repository-owners)
+- [Corporate CLAs](#corporate-clas)
+- [Available Documents](#available-documents)
 - [Contact Us](#contact)
 
 ## Contributors
@@ -41,7 +44,7 @@ the CLA was signed. The CLA assistant adds a check to each PR and verifies that.
 
 You should not merge any changes without a passing CLA check.
 
-## Setting Up Corporate CLAs
+## Corporate CLAs
 
 If you want to set up a corporate CLA with Walmart, please review the documents in
 this repository (PDF or markdown format) and contact us as detailed below.
