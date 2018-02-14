@@ -43,7 +43,7 @@ You should not merge any changes without a passing CLA check.
 
 ## Setting Up Corporate CLAs
 
-If you want to set up a corporate CLA with use, please review the documents in
+If you want to set up a corporate CLA with Walmart, please review the documents in
 this repository (PDF or markdown format) and contact us as detailed below.
 
 ## Available Documents
