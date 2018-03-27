@@ -2,7 +2,7 @@
 
 The Walmart CLA repository serves as the information provider
 for anybody interested in contributing to open source software managed by
-_Wal-Mart Stores, Inc. (“Walmart”)_ or any of its affiliates.
+_Walmart Inc. (“Walmart”)_ or any of its affiliates.
 
 We use [CLA assistant](https://cla-assistant.io/) to automatically verify any
 pull request against a list of known contributors that have already signed the
