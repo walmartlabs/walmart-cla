@@ -1,8 +1,25 @@
 # Walmart Contributor License Agreement CLA
 
+## Overview
+
 The Walmart CLA repository serves as the information provider
 for anybody interested in contributing to open source software managed by
-_Wal-Mart Stores, Inc. (“Walmart”)_ or any of its affiliates.
+_Walmart Inc. (“Walmart”)_ or any of its affiliates.
+
+Walmart manages numerous open source projects on GitHub organizations such as 
+[WalmartLabs](https://github.com/walmartlabs), 
+[OneOps](https://github.com/oneops), 
+[Electrode](https://github.com/electrode-io) and others, as well as on other code
+hosting system.
+
+Walmart retains and controls the copyright for all of these projects.
+The mechanism to ensure this control is called Contribute License Agreement CLA.
+A signed CLA is required from each [contributor](#contributors) to these
+projects. Managers and owners for the specific repositories and projects are
+required to ensure signed CLAs exist for all incoming contributions - usually in
+the form of a pull request.
+
+## Usage
 
 We use [CLA assistant](https://cla-assistant.io/) to automatically verify any
 pull request against a list of known contributors that have already signed the
@@ -59,7 +76,9 @@ The CLA used with CLA assistant is an identical copy managed by the
 a gist.
 
 
-## Contact Us <a name="contact"/>
+<a name="contact"/>
+
+## Contact Us
 
 All open source efforts are managed by the 
 [Open Source Team](https://sde.walmart.com/docs/open-source/index.html) within
