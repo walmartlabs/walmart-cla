@@ -80,15 +80,21 @@ a gist.
 
 ## Contact Us
 
-All open source efforts are managed by the 
-[Open Source Team](https://sde.walmart.com/docs/open-source/index.html) within
-the
-[Software Delivery and Enablement](https://sde.walmart.com/) team at Walmart.
+Find out more about our open source efforts from our
+[code.walmartlabs.com website](https://code.walmartlabs.com).
 
 For external contact beyond signing the CLA please file an issue with this
 repository with contact details and we will reach out to you. Alternatively you
 can email us at
 [opensource@walmartlabs.com](mailto:opensource@walmartlabs.com) for assistance.
+
+Walmart-Interal Info:
+
+All open source efforts are managed by the internal
+[Open Source Team](https://sde.walmart.com/docs/open-source/index.html) within
+the
+[Software Delivery and Enablement](https://sde.walmart.com/) team at Walmart.
+
 
 _SDE Open Source Team_
 
