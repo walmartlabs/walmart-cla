@@ -56,7 +56,7 @@ associated with and that a corporate CLA is signed in the last question.
 
 ## Repository Owners
 
-If you are a repository owner and reviewing pull request you need to ensure that
+If you are a repository owner and reviewing pull requests, you need to ensure that
 the CLA was signed. The CLA assistant adds a check to each PR and verifies that.
 
 You should not merge any changes without a passing CLA check.
